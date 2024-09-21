@@ -1,0 +1,979 @@
+[
+    {
+      "id": 1,
+      "name": "Paris Adventure Tour",
+      "destination": "Paris",
+      "description": "Experience the City of Lights like never before with our Paris Adventure Tour. This 3-day itinerary is packed with thrilling activities and iconic sights. Start with a breathtaking paragliding session over the Seine, giving you an aerial view of Paris’s stunning landmarks. Follow this with a guided tour of historical sites such as the Eiffel Tower and the Louvre Museum. Enjoy evening cruises on the Seine River, explore charming neighborhoods like Montmartre, and discover Paris’s hidden gems with our expert guides.",
+      "description1": "Experience the City of Lights like never before with our Paris Adventure Tour",
+      "price": 150,
+      "popularity": "high",
+      "type": "adventure",
+      "duration": "3 days",
+      "rating": "★★★★☆",
+      "destination_type": "city",
+      "images": [
+        "/images/paris adventure.jpg",
+        "/images/paris adventure1.jpg"
+      ],
+      "highlights": [
+        "Paragliding over Paris",
+        "Guided tours of Eiffel Tower and Louvre Museum",
+        "Seine River cruise",
+        "Exploration of Montmartre"
+      ],
+      "inclusions": [
+        "Accommodation in 4-star hotels",
+        "All activity and entrance fees",
+        "Breakfast and lunch",
+        "English-speaking guide"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Dinner",
+        "Personal expenses"
+      ],
+      "best_time_to_visit": "April to October",
+      "travel_tips": "Wear comfortable walking shoes and be prepared for changing weather conditions."
+    },
+    {
+      "id": 2,
+      "name": "Tropical Beach Resort",
+      "destination": "Maldives",
+      "description": "Escape to paradise with our Tropical Beach Resort package in the Maldives. Spend 7 days in a luxurious resort featuring stunning overwater bungalows with private decks. Enjoy crystal-clear waters, white sandy beaches, and a range of water sports including snorkeling and scuba diving. The resort offers world-class amenities, including a spa, fine dining restaurants, and personalized service to ensure a relaxing getaway. Perfect for couples, families, and honeymooners alike.",
+      "description1": "Escape to paradise with our Tropical Beach Resort package in the Maldives.",
+      "price": 300,
+      "popularity": "medium",
+      "type": "relaxation",
+      "duration": "7 days",
+      "rating": "★★★★★",
+      "destination_type": "beach",
+      "images": [
+        "/images/tropical2.jpg",
+        "/images/tropical1.jpg"
+      ],
+      "highlights": [
+        "Overwater bungalows",
+        "Private beach access",
+        "Snorkeling and scuba diving",
+        "Luxury spa treatments"
+      ],
+      "inclusions": [
+        "Accommodation in overwater bungalows",
+        "All meals and beverages",
+        "Daily spa treatments",
+        "Water sports activities"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Excursions outside the resort",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "November to April",
+      "travel_tips": "Pack light and bring sun protection; the Maldives is hot and sunny year-round."
+    },
+    {
+      "id": 3,
+      "name": "Mountain Hiking Expedition",
+      "destination": "Swiss Alps",
+      "description": "Embark on a thrilling 5-day hiking expedition in the Swiss Alps, renowned for its stunning landscapes and challenging trails. This adventure is perfect for experienced hikers seeking to conquer rugged terrain and enjoy panoramic views. The tour includes guided hikes to iconic spots like Matterhorn and Mont Blanc, with opportunities for climbing and exploring alpine meadows. Stay in cozy mountain lodges and savor Swiss cuisine as you immerse yourself in the natural beauty of the Alps.",
+      "description1": "Embark on a thrilling 5-day hiking expedition in the Swiss Alps, renowned for its stunning landscapes and challenging trails.",
+      "price": 200,
+      "popularity": "high",
+      "type": "adventure",
+      "duration": "5 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/mountain1.jpg",
+        "/images/mountain2.jpg"
+      ],
+      "highlights": [
+        "Guided hikes to Matterhorn and Mont Blanc",
+        "Climbing and alpine exploration",
+        "Stay in traditional mountain lodges",
+        "Savor Swiss cuisine"
+      ],
+      "inclusions": [
+        "Accommodation in mountain lodges",
+        "All meals",
+        "Guided hikes and activities",
+        "Transportation within Switzerland"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal hiking gear",
+        "Travel insurance"
+      ],
+      "best_time_to_visit": "June to September",
+      "travel_tips": "Bring proper hiking gear and be prepared for high-altitude conditions."
+    },
+    {
+      "id": 4,
+      "name": "Cultural Tour of Tokyo",
+      "destination": "Tokyo",
+      "description": "Discover the vibrant culture and history of Tokyo with our 4-day cultural tour. Experience the blend of tradition and modernity as you visit historic temples such as Senso-ji, explore the bustling markets of Asakusa, and tour the Imperial Palace. The itinerary also includes visits to contemporary art museums and traditional tea houses. Enjoy authentic Japanese cuisine and witness traditional performances, providing a deep dive into Tokyo’s rich cultural tapestry.",
+      "description1": "Discover the vibrant culture and history of Tokyo with our 4-day cultural tour. Experience the blend of tradition and modernity as you visit historic temples such as Senso-ji.",
+      "price": 180,
+      "popularity": "high",
+      "type": "cultural",
+      "duration": "4 days",
+      "rating": "★★★★☆",
+      "destination_type": "city",
+      "images": [
+        "/images/tokyo1.jpg",
+        "/images/tokyo2.jpg"
+      ],
+      "highlights": [
+        "Visit to Senso-ji Temple",
+        "Tour of the Imperial Palace",
+        "Exploration of Asakusa markets",
+        "Traditional tea house experience"
+      ],
+      "inclusions": [
+        "Accommodation in 3-star hotels",
+        "All meals",
+        "Guided tours",
+        "Entrance fees to sites"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Tips and gratuities"
+      ],
+      "best_time_to_visit": "March to May and September to November",
+      "travel_tips": "Learn a few basic Japanese phrases to enhance your cultural experience."
+    },
+    {
+      "id": 5,
+      "name": "Safari Adventure in Kenya",
+      "destination": "Kenya",
+      "description": "Experience the thrill of an African safari with our 6-day adventure in Kenya. Explore the expansive savannahs of the Maasai Mara and Amboseli National Parks, home to diverse wildlife including lions, elephants, and giraffes. Enjoy guided game drives, spot the Big Five, and stay in luxurious lodges with stunning views of the wildlife. This safari package includes expert guides, all meals, and cultural experiences with local Maasai tribes, offering an immersive and unforgettable adventure.",
+      "description1": "Experience the thrill of an African safari with our 6-day adventure in Kenya. Explore the expansive savannahs of the Maasai Mara and Amboseli National Parks, home to diverse wildlife including lions, elephants, and giraffes. Enjoy guided game drives, spot the Big Five, and stay in luxurious lodges with stunning views of the wildlife. This safari package includes expert guides, all meals, and cultural experiences.",
+      "price": 250,
+      "popularity": "high",
+      "type": "adventure",
+      "duration": "6 days",
+      "rating": "★★★★★",
+      "destination_type": "safari",
+      "images": [
+        "/images/kenya1.jpg",
+        "/images/kenya2.jpg"
+      ],
+      "highlights": [
+        "Game drives in Maasai Mara and Amboseli",
+        "Spot the Big Five",
+        "Stay in luxury lodges",
+        "Cultural experiences with Maasai tribes"
+      ],
+      "inclusions": [
+        "Accommodation in luxury lodges",
+        "All meals and beverages",
+        "Guided game drives",
+        "Cultural activities"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "June to October",
+      "travel_tips": "Bring binoculars and a camera with a zoom lens for wildlife photography."
+    },
+    {
+      "id": 6,
+      "name": "Venice Gondola Ride",
+      "destination": "Venice",
+      "description": "Experience the romance and charm of Venice with a private gondola ride through its historic canals. This 2-hour tour offers a unique perspective of the city’s picturesque architecture and serene waterways. Glide past grand palaces, historic bridges, and vibrant piazzas as your gondolier narrates the rich history and legends of Venice. Perfect for couples looking for a romantic escape or anyone wanting to explore the beauty of Venice from its famous canals.",
+      "description1": "Experience the romance and charm of Venice with a private gondola ride through its historic canals. This 2-hour tour offers a unique perspective of the city’s picturesque architecture and serene waterways.",
+      "price": 100,
+      "popularity": "medium",
+      "type": "romantic",
+      "duration": "2 hours",
+      "rating": "★★★☆☆",
+      "destination_type": "city",
+      "images": [
+        "/images/ride1.jpg",
+        "/images/ride2.jpg"
+      ],
+      "highlights": [
+        "Private gondola ride",
+        "Scenic canal views",
+        "Historical narration by gondolier",
+        "Romantic experience"
+      ],
+      "inclusions": [
+        "Private gondola ride",
+        "Gondolier with traditional attire",
+        "Narration of Venice's history"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Meals and drinks",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "April to October",
+      "travel_tips": "Wear comfortable clothing and be prepared for potential crowds during peak season."
+    },
+    {
+      "id": 7,
+      "name": "Luxury Stay in Bora Bora",
+      "destination": "Bora Bora",
+      "description": "Indulge in the ultimate luxury escape with our Bora Bora package. Stay in exclusive overwater bungalows with direct access to the lagoon. Spend your days lounging on private beaches, snorkeling among vibrant coral reefs, and enjoying world-class dining with views of the turquoise waters. The package includes spa treatments, personalized concierge service, and excursions to explore the island’s natural beauty. Ideal for those seeking a serene and opulent retreat in a breathtaking location.",
+      "description1": "Indulge in the ultimate luxury escape with our Bora Bora package. Stay in exclusive overwater bungalows with direct access to the lagoon. Spend your days lounging on private beaches, snorkeling among vibrant coral reefs, and enjoying world-class dining with views of the turquoise waters.",
+      "price": 500,
+      "popularity": "high",
+      "type": "luxury",
+      "duration": "7 days",
+      "rating": "★★★★★",
+      "destination_type": "beach",
+      "images": [
+        "/images/luxury sta1.jpg",
+        "/images/luxury sta2.jpg"
+      ],
+      "highlights": [
+        "Overwater bungalows",
+        "Private beach access",
+        "World-class dining",
+        "Spa treatments and excursions"
+      ],
+      "inclusions": [
+        "Accommodation in overwater bungalows",
+        "All meals and beverages",
+        "Spa treatments",
+        "Excursions and activities"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Additional excursions",
+        "Personal expenses"
+      ],
+      "best_time_to_visit": "May to October",
+      "travel_tips": "Pack swimwear, sunscreen, and light clothing for tropical weather."
+    },
+    {
+      "id": 8,
+      "name": "Historical Tour of Rome",
+      "destination": "Rome",
+      "description": "Step back in time with our Historical Tour of Rome, offering a comprehensive exploration of the Eternal City’s most iconic landmarks. Over 5 days, visit the Colosseum, Roman Forum, and Pantheon, and delve into the history of Vatican City including St. Peter’s Basilica and the Sistine Chapel. This tour combines guided visits to ancient ruins with leisurely exploration of charming piazzas and historic neighborhoods. Enjoy traditional Italian cuisine and discover Rome’s rich cultural heritage.",
+      "description1": "Step back in time with our Historical Tour of Rome, offering a comprehensive exploration of the Eternal City’s most iconic landmarks. Over 5 days, visit the Colosseum, Roman Forum, and Pantheon, and delve into the history of Vatican City including St. Peter’s Basilica and the Sistine Chapel. This tour combines guided visits to ancient ruins with leisurely exploration of charming piazzas and historic neighborhoods.",
+      "price": 220,
+      "popularity": "medium",
+      "type": "cultural",
+      "duration": "5 days",
+      "rating": "★★★★☆",
+      "destination_type": "city",
+      "images": [
+        "/images/tour in rome1.avif",
+        "/images/tour in rome2.jpg"
+      ],
+      "highlights": [
+        "Guided tours of the Colosseum and Roman Forum",
+        "Visit to Vatican City",
+        "Exploration of Rome’s historic neighborhoods",
+        "Traditional Italian meals"
+      ],
+      "inclusions": [
+        "Accommodation in 3-star hotels",
+        "All meals",
+        "Guided tours",
+        "Entrance fees to historical sites"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Tips and gratuities"
+      ],
+      "best_time_to_visit": "April to June and September to October",
+      "travel_tips": "Wear comfortable walking shoes and bring a hat for sunny days."
+    },
+    {
+      "id": 9,
+      "name": "Adventure in New Zealand",
+      "destination": "New Zealand",
+      "description": "Discover the diverse landscapes of New Zealand with our 8-day adventure package. Engage in adrenaline-pumping activities such as bungee jumping in Queenstown, skydiving over stunning landscapes, and hiking through breathtaking national parks. The tour also includes visits to the geothermal wonders of Rotorua and the vibrant city life of Auckland. Enjoy a mix of thrilling outdoor activities and serene natural beauty, all while staying in comfortable accommodations.",
+      "description1": "Discover the diverse landscapes of New Zealand with our 8-day adventure package. Engage in adrenaline-pumping activities such as bungee jumping in Queenstown, skydiving over stunning landscapes, and hiking through breathtaking national parks. The tour also includes visits to the geothermal wonders of Rotorua and the vibrant city life of Auckland.",
+      "price": 280,
+      "popularity": "high",
+      "type": "adventure",
+      "duration": "8 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/new zealand1.jpg",
+        "/images/new zealand2.jpg"
+      ],
+      "highlights": [
+        "Bungee jumping in Queenstown",
+        "Skydiving over scenic landscapes",
+        "Hiking in national parks",
+        "Exploring Rotorua’s geothermal areas"
+      ],
+      "inclusions": [
+        "Accommodation in 3-star hotels",
+        "All activities and entrance fees",
+        "Meals as specified",
+        "Transportation within New Zealand"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Travel insurance"
+      ],
+      "best_time_to_visit": "November to April",
+      "travel_tips": "Prepare for variable weather conditions and pack layers."
+    },
+    {
+      "id": 10,
+      "name": "Relaxation Retreat in Bali",
+      "destination": "Bali",
+      "description": "Recharge your mind, body, and soul with our 7-day Relaxation Retreat in Bali. This package includes yoga sessions led by experienced instructors, soothing spa treatments, and ample time to relax in serene surroundings. Stay in luxurious villas surrounded by lush landscapes and enjoy gourmet meals made with fresh, local ingredients. The retreat also offers excursions to nearby temples and traditional Balinese ceremonies, blending relaxation with cultural experiences.",
+      "description1": "Recharge your mind, body, and soul with our 7-day Relaxation Retreat in Bali. This package includes yoga sessions led by experienced instructors, soothing spa treatments, and ample time to relax in serene surroundings. Stay in luxurious villas surrounded by lush landscapes and enjoy gourmet meals made with fresh, local ingredients.",
+      "price": 350,
+      "popularity": "medium",
+      "type": "relaxation",
+      "duration": "7 days",
+      "rating": "★★★★★",
+      "destination_type": "beach",
+      "images": [
+        "/images/bali1.jpg",
+        "/images/bali2.jpg"
+      ],
+      "highlights": [
+        "Daily yoga sessions",
+        "Spa treatments",
+        "Luxurious villa accommodation",
+        "Excursions to temples and cultural sites"
+      ],
+      "inclusions": [
+        "Accommodation in luxury villas",
+        "All meals",
+        "Yoga and spa treatments",
+        "Excursions and cultural activities"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Additional activities and excursions",
+        "Personal expenses"
+      ],
+      "best_time_to_visit": "April to October",
+      "travel_tips": "Bring comfortable clothing for yoga and light attire for warm weather."
+    },
+    {
+      "id": 11,
+      "name": "Norwegian Fjord Cruise",
+      "destination": "Norway",
+      "description": "Set sail on a luxury cruise through the majestic fjords of Norway. This 6-day journey offers stunning views of the breathtaking landscapes, including deep blue fjords, towering mountains, and picturesque villages. Enjoy onboard amenities such as fine dining, spa treatments, and panoramic observation decks. The cruise also includes excursions to iconic spots like Geirangerfjord and the stunning town of Bergen, providing a comprehensive experience of Norway’s natural beauty.",
+      "description1": "Set sail on a luxury cruise through the majestic fjords of Norway. This 6-day journey offers stunning views of the breathtaking landscapes, including deep blue fjords, towering mountains, and picturesque villages. Enjoy onboard amenities such as fine dining, spa treatments, and panoramic observation decks.",
+      "price": 400,
+      "popularity": "high",
+      "type": "luxury",
+      "duration": "6 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/norway1.jpg",
+        "/images/norway1.jpg"
+      ],
+      "highlights": [
+        "Cruise through Geirangerfjord",
+        "Luxury onboard amenities",
+        "Excursions to Bergen",
+        "Stunning fjord views"
+      ],
+      "inclusions": [
+        "Accommodation in luxury cabins",
+        "All meals and beverages",
+        "Onboard activities and entertainment",
+        "Excursions and guided tours"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "June to August",
+      "travel_tips": "Bring warm clothing and layers, even in summer, as temperatures can be cool."
+    },
+    {
+      "id": 12,
+      "name": "Icelandic Northern Lights Tour",
+      "destination": "Iceland",
+      "description": "Witness the spectacular Northern Lights with our guided tour of Iceland. This 4-day adventure includes comfortable accommodations and excursions to some of Iceland’s most stunning natural sites. Explore the Golden Circle, including the Geysir geothermal area and Gullfoss waterfall. Relax in the Blue Lagoon and enjoy evening tours to maximize your chances of seeing the aurora borealis. The tour combines unique natural phenomena with cultural experiences and stunning landscapes.",
+      "description1": "Witness the spectacular Northern Lights with our guided tour of Iceland. This 4-day adventure includes comfortable accommodations and excursions to some of Iceland’s most stunning natural sites. Explore the Golden Circle, including the Geysir geothermal area and Gullfoss waterfall. Relax in the Blue Lagoon and enjoy evening tours to maximize your chances of seeing the aurora borealis.",
+      "price": 270,
+      "popularity": "medium",
+      "type": "adventure",
+      "duration": "4 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/iceland1.jpg",
+        "/images/iceland2.jpg"
+      ],
+      "highlights": [
+        "Northern Lights viewing",
+        "Golden Circle tour",
+        "Relaxation in Blue Lagoon",
+        "Guided excursions"
+      ],
+      "inclusions": [
+        "Accommodation in 3-star hotels",
+        "All meals",
+        "Northern Lights tours",
+        "Guided excursions and entrance fees"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Travel insurance"
+      ],
+      "best_time_to_visit": "September to March",
+      "travel_tips": "Dress warmly in layers and be prepared for varying weather conditions."
+    },
+    {
+      "id": 13,
+      "name": "City Lights of New York",
+      "destination": "New York",
+      "description": "Immerse yourself in the vibrant energy of New York City with our 5-day City Lights package. Experience iconic sights like Times Square, Central Park, and Broadway shows, along with guided tours of Manhattan.",
+      "description1": "Immerse yourself in the vibrant energy of New York City with our 5-day City Lights package. Experience the iconic sights of Manhattan, including Times Square, Central Park, and the Empire State Building. Attend world-famous Broadway shows and explore diverse neighborhoods such as Greenwich Village and SoHo. This tour provides a comprehensive taste of New York’s cultural and entertainment offerings, combined with comfortable accommodations and guided tours.",
+      "price": 250,
+      "popularity": "high",
+      "type": "cultural",
+      "duration": "5 days",
+      "rating": "★★★★☆",
+      "destination_type": "city",
+      "images": [
+        "/images/york1.jpg",
+        "/images/york2.jpg"
+      ],
+      "highlights": [
+        "Broadway shows",
+        "Times Square and Central Park",
+        "Empire State Building",
+        "Guided tours of Manhattan"
+      ],
+      "inclusions": [
+        "Accommodation in 4-star hotels",
+        "Broadway show tickets",
+        "All meals",
+        "Guided city tours"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "April to June and September to November",
+      "travel_tips": "Book show tickets in advance and be prepared for busy city streets."
+    },
+    {
+      "id": 14,
+      "name": "Great Barrier Reef Diving",
+      "destination": "Australia",
+      "description": "Explore the vibrant underwater world of the Great Barrier Reef in this 4-day diving adventure. Includes guided dives, equipment rental, and beachfront resort accommodation for all experience levels.",
+      "description1": "Dive into the vibrant underwater world of the Great Barrier Reef with our 4-day diving adventure. Explore one of the world’s most famous coral reefs, teeming with colorful marine life and breathtaking underwater landscapes. The package includes guided dives, equipment rental, and accommodation at a beachfront resort. Whether you’re an experienced diver or a beginner, this adventure offers an unforgettable opportunity to witness the beauty of the reef firsthand.",
+      "price": 350,
+      "popularity": "high",
+      "type": "adventure",
+      "duration": "4 days",
+      "rating": "★★★★★",
+      "destination_type": "beach",
+      "images": [
+        "/images/australia1.jpg",
+        "/images/australia2.jpg"
+      ],
+      "highlights": [
+        "Guided dives in the Great Barrier Reef",
+        "Colorful coral reefs and marine life",
+        "Beachfront resort accommodation",
+        "All necessary diving equipment"
+      ],
+      "inclusions": [
+        "Accommodation in a beachfront resort",
+        "All diving equipment",
+        "Guided dives",
+        "All meals and beverages"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Travel insurance"
+      ],
+      "best_time_to_visit": "June to November",
+      "travel_tips": "Bring swimwear, a hat, and reef-safe sunscreen."
+    },
+    {
+      "id": 15,
+      "name": "Mediterranean Cruise",
+      "destination": "Mediterranean",
+      "description": "Embark on a luxurious 2-day cruise along the stunning Mediterranean coastlines, featuring guided tours, fine dining, and relaxing days at sea, exploring historic ports in Greece, Italy, and Spain.",
+      "description1": "Embark on a luxurious Mediterranean cruise exploring the stunning coastlines of Greece, Italy, and Spain. This 2-day journey includes elegant accommodations, fine dining, and opportunities to explore historic ports. Highlights include guided tours of ancient ruins, relaxing days at sea, and cultural experiences in charming Mediterranean towns. The cruise offers a blend of relaxation and cultural enrichment, making it a perfect short escape into the heart of the Mediterranean.",
+      "price": 600,
+      "popularity": "medium",
+      "type": "luxury",
+      "duration": "2 days",
+      "rating": "★★★★☆",
+      "destination_type": "beach",
+      "images": [
+        "/images/cruise1.jpg",
+        "/images/cruise2.jpg"
+      ],
+      "highlights": [
+        "Elegant cruise ship accommodations",
+        "Guided tours in Greece, Italy, and Spain",
+        "Fine dining and onboard amenities",
+        "Relaxing days at sea"
+      ],
+      "inclusions": [
+        "Accommodation in luxury cabins",
+        "All meals and beverages",
+        "Onboard entertainment and activities",
+        "Guided shore excursions"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "May to September",
+      "travel_tips": "Book shore excursions early and pack appropriate attire for formal dinners."
+    },
+    {
+      "id": 16,
+      "name": "Swiss Alps Skiing",
+      "destination": "Swiss Alps",
+      "description": "Hit the slopes of the Swiss Alps with this 5-day skiing package, perfect for all levels. Enjoy ski lessons, premium resorts, cozy lodges, and après-ski activities amidst stunning alpine views.",
+      "description1": "Hit the slopes of the Swiss Alps with our 5-day skiing package. Perfect for skiers of all levels, this adventure includes access to premium ski resorts, equipment rental, and ski lessons. Enjoy breathtaking alpine views, cozy mountain lodges, and après-ski activities. The package also features guided tours of nearby attractions and cultural experiences in alpine villages. Whether you’re a seasoned skier or a novice, this adventure promises an exciting winter escape.",
+      "price": 220,
+      "popularity": "medium",
+      "type": "adventure",
+      "duration": "5 days",
+      "rating": "★★★☆☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/skiing1.jpg",
+        "/images/skiing2.jpg"
+      ],
+      "highlights": [
+        "Premium ski resorts access",
+        "Equipment rental and ski lessons",
+        "Cozy mountain lodges",
+        "Guided tours and cultural experiences"
+      ],
+      "inclusions": [
+        "Accommodation in mountain lodges",
+        "Ski passes and equipment rental",
+        "Ski lessons",
+        "Guided tours and cultural activities"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Meals and drinks"
+      ],
+      "best_time_to_visit": "December to March",
+      "travel_tips": "Bring appropriate ski gear and be prepared for cold temperatures."
+    },
+    {
+      "id": 17,
+      "name": "Luxury Safari in South Africa",
+      "destination": "South Africa",
+      "description": "Enjoy a 7-day luxury safari with private game drives, gourmet meals, and cultural experiences. Stay in five-star lodgings and witness the Big Five in exclusive wildlife reserves.",
+      "description1": "Experience the epitome of luxury with our 7-day safari in South Africa. Enjoy private game drives in exclusive reserves, five-star lodgings, and personalized service. Witness the majestic wildlife of the African savannah, including the Big Five, in the comfort of a luxury safari vehicle. The package includes gourmet meals, guided excursions, and cultural experiences with local communities. This safari offers an unparalleled combination of luxury and adventure in one of Africa’s most renowned wildlife destinations.",
+      "price": 700,
+      "popularity": "high",
+      "type": "luxury",
+      "duration": "7 days",
+      "rating": "★★★★★",
+      "destination_type": "safari",
+      "images": [
+        "/images/safari1.jpg",
+        "/images/safari2.jpg"
+      ],
+      "highlights": [
+        "Private game drives",
+        "Luxury lodgings and gourmet meals",
+        "Big Five wildlife sightings",
+        "Cultural experiences with local communities"
+      ],
+      "inclusions": [
+        "Accommodation in luxury lodges",
+        "All meals and beverages",
+        "Private game drives",
+        "Guided cultural experiences"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "May to October",
+      "travel_tips": "Bring lightweight, neutral-colored clothing and binoculars for wildlife viewing."
+    },
+    {
+      "id": 18,
+      "name": "Relaxing Retreat in the Caribbean",
+      "destination": "Caribbean",
+      "description": "Unwind with our 6-day all-inclusive Caribbean retreat. Enjoy spa treatments, beach access, and water sports while staying in luxurious beachfront accommodations.",
+      "description1": "Enjoy a serene escape with our Caribbean retreat package. Over 6 days, experience the ultimate relaxation with all-inclusive amenities including spa treatments, beach access, and gourmet dining. Stay in luxurious beachfront accommodations and indulge in activities such as snorkeling, yoga, and water sports. The package also offers excursions to explore the local culture and natural beauty of the Caribbean islands, providing a perfect blend of relaxation and adventure.",
+      "price": 400,
+      "popularity": "low",
+      "type": "wellness",
+      "duration": "6 days",
+      "rating": "★★★★☆",
+      "destination_type": "beach",
+      "images": [
+        "/images/caribbean1.jpg",
+        "/images/caribbean2.jpg"
+      ],
+      "highlights": [
+        "Spa treatments and wellness activities",
+        "Beachfront accommodations",
+        "Water sports and snorkeling",
+        "Excursions to local attractions"
+      ],
+      "inclusions": [
+        "Accommodation in a beachfront resort",
+        "All meals and beverages",
+        "Spa treatments and wellness activities",
+        "Water sports and excursions"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "December to April",
+      "travel_tips": "Bring sunscreen, swimwear, and light clothing for warm tropical weather."
+    },
+    {
+      "id": 19,
+      "name": "Northern Lights Adventure",
+      "destination": "Iceland",
+      "description": "Witness the awe-inspiring Northern Lights with a 3-day adventure in Iceland. Includes guided tours, geothermal baths, and cultural experiences under the shimmering Arctic sky.",
+      "description1": "Discover the magic of Iceland with our 3-day Northern Lights adventure. Witness the dazzling natural light show as you explore the rugged Icelandic landscape. This package includes guided tours to prime viewing locations, geothermal baths, and cultural experiences, providing an unforgettable combination of nature and local heritage. The trip also features comfortable accommodations and opportunities to visit iconic Icelandic landmarks like glaciers and waterfalls.",
+      "price": 280,
+      "popularity": "high",
+      "type": "nature",
+      "duration": "3 days",
+      "rating": "★★★★★",
+      "destination_type": "countryside",
+      "images": [
+        "/images/northern1.jpg",
+        "/images/northern2.jpg"
+      ],
+      "highlights": [
+        "Northern Lights viewing",
+        "Geothermal baths",
+        "Guided tours and cultural experiences",
+        "Iconic Icelandic landmarks"
+      ],
+      "inclusions": [
+        "Accommodation in countryside lodges",
+        "All meals and beverages",
+        "Guided tours",
+        "Geothermal bath access"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Travel insurance"
+      ],
+      "best_time_to_visit": "September to April",
+      "travel_tips": "Dress in layers and bring a good camera for photographing the Northern Lights."
+    },
+    {
+      "id": 20,
+      "name": "Amazon Rainforest Expedition",
+      "destination": "Amazon",
+      "description": "Immerse yourself in the vibrant Amazon Rainforest with a 7-day expedition. Includes guided jungle hikes, wildlife spotting, and visits to indigenous communities.",
+      "description1": "Experience the wonder of the Amazon Rainforest with a 7-day expedition deep into the heart of the jungle. Explore one of the most biodiverse regions on Earth through guided jungle hikes, wildlife spotting, and boat excursions. Visit indigenous communities and learn about their way of life. The package includes comfortable eco-lodges, meals, and expert guides to enhance your Amazon adventure, ensuring a balance between excitement and cultural immersion.",
+      "price": 450,
+      "popularity": "medium",
+      "type": "adventure",
+      "duration": "7 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/amazon1.jpg",
+        "/images/amazon2.jpg"
+      ],
+      "highlights": [
+        "Jungle hikes and wildlife spotting",
+        "Boat excursions on the Amazon River",
+        "Visits to indigenous communities",
+        "Eco-lodge accommodations"
+      ],
+      "inclusions": [
+        "Accommodation in eco-lodges",
+        "All meals and beverages",
+        "Guided hikes and excursions",
+        "Cultural experiences"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "June to November",
+      "travel_tips": "Pack insect repellent, light clothing, and waterproof gear for the rainforest."
+    },
+    {
+      "id": 21,
+      "name": "Tokyo and Kyoto Cultural Experience",
+      "destination": "Japan",
+      "description": "Discover the rich cultural heritage of Japan with this 6-day Tokyo and Kyoto tour. Includes visits to temples, traditional tea ceremonies, and city tours of modern and historic Japan.",
+      "description1": "Explore the best of Japan’s cultural heritage with our 6-day tour of Tokyo and Kyoto. Visit historic temples, enjoy traditional tea ceremonies, and experience the contrast between the modern metropolis of Tokyo and the ancient charm of Kyoto. The tour includes city sightseeing, guided tours of iconic landmarks, and opportunities to immerse yourself in Japanese culture. Accommodations are in comfortable hotels with easy access to the key cultural attractions.",
+      "price": 600,
+      "popularity": "high",
+      "type": "cultural",
+      "duration": "6 days",
+      "rating": "★★★★★",
+      "destination_type": "city",
+      "images": [
+        "/images/tokyo1.jpg",
+        "/images/tokyo2.jpg"
+      ],
+      "highlights": [
+        "Historic temples and shrines",
+        "Traditional tea ceremonies",
+        "City tours of Tokyo and Kyoto",
+        "Cultural experiences"
+      ],
+      "inclusions": [
+        "Accommodation in 4-star hotels",
+        "All meals and beverages",
+        "Guided tours",
+        "Cultural experiences"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Travel insurance"
+      ],
+      "best_time_to_visit": "March to May and September to November",
+      "travel_tips": "Carry cash as many smaller shops in Japan may not accept credit cards."
+    },
+    {
+      "id": 22,
+      "name": "Alaskan Wilderness Adventure",
+      "destination": "Alaska",
+      "description": "Explore the rugged Alaskan wilderness on this 5-day adventure. Includes glacier hiking, wildlife spotting, and camping under the Northern Lights.",
+      "description1": "Embark on an unforgettable journey through the Alaskan wilderness with our 5-day adventure package. Explore glaciers, hike through stunning landscapes, and spot wildlife such as bears and moose. This trip also includes camping under the Northern Lights, providing a truly immersive experience in one of the most untouched natural environments on Earth. With expert guides and all necessary equipment provided, this adventure is perfect for those seeking a raw, unfiltered connection with nature.",
+      "price": 300,
+      "popularity": "medium",
+      "type": "adventure",
+      "duration": "5 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/alaska1.jpg",
+        "/images/alaska2.jpg"
+      ],
+      "highlights": [
+        "Glacier hiking",
+        "Wildlife spotting",
+        "Camping under the Northern Lights",
+        "Expert guides and equipment"
+      ],
+      "inclusions": [
+        "Accommodation in wilderness camps",
+        "All meals and beverages",
+        "Guided hikes and wildlife tours",
+        "Camping gear"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "June to August",
+      "travel_tips": "Dress warmly and in layers, and be prepared for changing weather conditions."
+    },
+    {
+      "id": 23,
+      "name": "Ancient Wonders of Egypt",
+      "destination": "Egypt",
+      "description": "Journey back in time with this 8-day tour of Egypt’s ancient wonders. Includes visits to the Pyramids of Giza, the Sphinx, and a Nile River cruise.",
+      "description1": "Uncover the ancient history of Egypt with our 8-day tour package. Visit the world-famous Pyramids of Giza, the Sphinx, and the temples of Luxor and Karnak. Take a relaxing cruise along the Nile River and explore the rich cultural heritage of ancient Egypt. This package combines historical sightseeing with modern comfort, featuring stays in luxury hotels and guided tours by Egyptologists. Experience the wonders of the ancient world up close with this once-in-a-lifetime trip.",
+      "price": 500,
+      "popularity": "high",
+      "type": "cultural",
+      "duration": "8 days",
+      "rating": "★★★★★",
+      "destination_type": "city",
+      "images": [
+        "/images/egypt1.jpg",
+        "/images/egypt2.jpg"
+      ],
+      "highlights": [
+        "Pyramids of Giza and the Sphinx",
+        "Temples of Luxor and Karnak",
+        "Nile River cruise",
+        "Guided tours by Egyptologists"
+      ],
+      "inclusions": [
+        "Accommodation in luxury hotels",
+        "All meals and beverages",
+        "Nile River cruise",
+        "Guided tours"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "October to April",
+      "travel_tips": "Pack sunscreen, a hat, and comfortable shoes for exploring ancient sites."
+    },
+    {
+      "id": 24,
+      "name": "Romantic Getaway in the Maldives",
+      "destination": "Maldives",
+      "description": "Escape to the Maldives with this 4-day romantic getaway. Includes overwater bungalow stays, candlelit dinners, and sunset cruises for the ultimate tropical retreat.",
+      "description1": "Indulge in a romantic escape with our 4-day Maldives getaway package. Stay in luxurious overwater bungalows, enjoy candlelit dinners on the beach, and take serene sunset cruises through crystal-clear waters. This package offers a perfect blend of relaxation and romance in one of the most idyllic tropical destinations. With all meals, beverages, and activities included, you and your partner can enjoy the ultimate stress-free retreat in paradise.",
+      "price": 900,
+      "popularity": "high",
+      "type": "luxury",
+      "duration": "4 days",
+      "rating": "★★★★★",
+      "destination_type": "beach",
+      "images": [
+        "/images/maldives1.jpg",
+        "/images/maldives2.jpg"
+      ],
+      "highlights": [
+        "Overwater bungalow accommodation",
+        "Candlelit dinners on the beach",
+        "Sunset cruises",
+        "Luxurious amenities"
+      ],
+      "inclusions": [
+        "Accommodation in overwater bungalows",
+        "All meals and beverages",
+        "Sunset cruises",
+        "Romantic activities"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "November to April",
+      "travel_tips": "Pack light clothing, swimwear, and sunscreen for a tropical paradise."
+    },
+    {
+      "id": 25,
+      "name": "Patagonia Hiking Expedition",
+      "destination": "Patagonia",
+      "description": "Challenge yourself with a 6-day hiking expedition through Patagonia’s rugged wilderness. Includes guided treks, breathtaking views, and camping in the mountains.",
+      "description1": "Discover the wild beauty of Patagonia with our 6-day hiking expedition. Traverse rugged mountain trails, witness stunning glaciers, and camp in remote areas under the stars. This package offers guided hikes through some of Patagonia’s most breathtaking landscapes, providing a perfect adventure for outdoor enthusiasts. With experienced guides, comfortable camping accommodations, and opportunities to see diverse wildlife, this expedition offers an unforgettable journey through one of South America’s most scenic regions.",
+      "price": 380,
+      "popularity": "medium",
+      "type": "adventure",
+      "duration": "6 days",
+      "rating": "★★★★☆",
+      "destination_type": "countryside",
+      "images": [
+        "/images/patagonia1.jpg",
+        "/images/patagonia2.jpg"
+      ],
+      "highlights": [
+        "Guided hiking expeditions",
+        "Stunning mountain views",
+        "Camping in remote areas",
+        "Wildlife spotting opportunities"
+      ],
+      "inclusions": [
+        "Accommodation in mountain camps",
+        "All meals and beverages",
+        "Guided hikes",
+        "Camping gear"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "November to March",
+      "travel_tips": "Bring sturdy hiking boots and layers of clothing for changing weather."
+    },
+    {
+      "id": 26,
+      "name": "Parisian Romance",
+      "destination": "Paris",
+      "description": "Explore the City of Love with our 3-day Parisian romance package. Includes visits to the Eiffel Tower, Seine River cruises, and romantic dinners at top French restaurants.",
+      "description1": "Immerse yourself in the romance of Paris with our 3-day romance package. Visit iconic landmarks like the Eiffel Tower and Notre Dame, enjoy a Seine River cruise, and indulge in romantic dinners at some of Paris’s finest restaurants. This package offers a perfect blend of cultural exploration and intimate moments, making it ideal for couples looking to experience the magic of the City of Love. Accommodations in boutique hotels add a touch of Parisian charm to your stay.",
+      "price": 600,
+      "popularity": "high",
+      "type": "luxury",
+      "duration": "3 days",
+      "rating": "★★★★☆",
+      "destination_type": "city",
+      "images": [
+        "/images/paris1.jpg",
+        "/images/paris2.jpg"
+      ],
+      "highlights": [
+        "Eiffel Tower visits",
+        "Seine River cruises",
+        "Romantic dinners",
+        "Boutique hotel accommodations"
+      ],
+      "inclusions": [
+        "Accommodation in boutique hotels",
+        "All meals and beverages",
+        "Seine River cruise",
+        "Guided tours"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "April to June and September to October",
+      "travel_tips": "Pack elegant attire for romantic dinners and be ready to explore Paris on foot."
+    },
+    {
+      "id": 27,
+      "name": "African Safari Adventure",
+      "destination": "Kenya",
+      "description": "Join us for an unforgettable 5-day African safari adventure in Kenya. Includes game drives, luxury tented camps, and encounters with the Big Five in the Maasai Mara.",
+      "description1": "Experience the thrill of an African safari with our 5-day adventure in Kenya’s Maasai Mara. Stay in luxury tented camps and enjoy guided game drives that offer opportunities to see the Big Five – lions, elephants, leopards, buffalo, and rhinos. This package provides a perfect mix of adventure and comfort, with stunning landscapes and abundant wildlife. Witness the Great Migration if visiting during the season and enjoy cultural experiences with the Maasai people.",
+      "price": 500,
+      "popularity": "high",
+      "type": "adventure",
+      "duration": "5 days",
+      "rating": "★★★★★",
+      "destination_type": "safari",
+      "images": [
+        "/images/kenya1.jpg",
+        "/images/kenya2.jpg"
+      ],
+      "highlights": [
+        "Luxury tented camp accommodations",
+        "Guided game drives",
+        "Big Five wildlife sightings",
+        "Cultural experiences with the Maasai"
+      ],
+      "inclusions": [
+        "Accommodation in luxury tented camps",
+        "All meals and beverages",
+        "Guided game drives",
+        "Cultural experiences"
+      ],
+      "exclusions": [
+        "International airfare",
+        "Personal expenses",
+        "Gratuities"
+      ],
+      "best_time_to_visit": "July to October",
+      "travel_tips": "Pack lightweight clothing, binoculars, and a camera for wildlife photography."
+    }
+    
+          
+          
+      
+      
+  ]
+  

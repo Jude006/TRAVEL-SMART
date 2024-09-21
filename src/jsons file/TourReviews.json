@@ -1,0 +1,94 @@
+
+    [
+      {
+        "id": 1,
+        "name": "Emily Johnson",
+        "rating": 5,
+        "image": "/images/review1.jpg",
+        "destination": "Maldives",
+        "date": "2024-01-10",
+        "testimonial": "Smart Travel made my dream vacation a reality! From the stunning beaches to the wonderful excursions, everything was seamless. Highly recommend!",
+        "tour_highlight": "Bioluminescent beaches and luxury accommodations."
+      },
+      {
+        "id": 2,
+        "name": "David Rodriguez",
+        "rating": 4,
+        "image": "/images/review2.jpg",
+        "destination": "Thailand",
+        "date": "2023-12-25",
+        "testimonial": "Had an amazing time in Thailand! The tours were well-organized, and the guides were incredibly friendly.  but overall, it was an unforgettable experience.",
+        "tour_highlight": "Phi Phi Island and the floating market tour."
+      },
+      {
+        "id": 3,
+        "name": "Sophia Chen",
+        "rating": 5,
+        "image": "/images/review3.jpg",
+        "destination": "Italy",
+        "date": "2023-11-20",
+        "testimonial": "Exploring Italy with Smart Travel was a once-in-a-lifetime experience. The historical tours in Rome and Venice were breathtaking, and the food was to die for!",
+        "tour_highlight": "Vatican City and gondola rides in Venice."
+      },
+      {
+        "id": 4,
+        "name": "John Miller",
+        "rating": 3,
+        "image": "/images/review4.jpg",
+        "destination": "Australia",
+        "date": "2024-02-15",
+        "testimonial": "The trip to Australia was good, but I expected a bit more in terms of wildlife tours. However, the Great Barrier Reef and Sydney were spectacular!",
+        "tour_highlight": "Great Barrier Reef diving experience."
+      },
+      {
+        "id": 5,
+        "name": "Lisa Nguyen",
+        "rating": 5,
+       "image": "/images/review5.jpg",
+        "destination": "Bali",
+        "date": "2023-10-05",
+        "testimonial": "Bali was a dream come true! The temples, beaches, and culture are incredible. Smart Travel ensured that every detail of the trip was perfect.",
+        "tour_highlight": "Ubud Monkey Forest and sunset at Tanah Lot Temple."
+      },
+      {
+        "id": 6,
+        "name": "Michael Brown",
+        "rating": 4,
+       "image": "/images/review6.jpg",
+        "destination": "Japan",
+        "date": "2023-09-18",
+        "testimonial": "Japan was such a fascinating country to explore. I loved the balance of traditional and modern experiences. Smart Travel’s itinerary was well-planned.",
+        "tour_highlight": "Mount Fuji and the Tokyo Tower."
+      },
+      {
+        "id": 7,
+        "name": "Anna Williams",
+        "rating": 5,
+       "image": "/images/review7.jpg",
+        "destination": "Switzerland",
+        "date": "2023-12-12",
+        "testimonial": "An unforgettable trip to Switzerland! and the local food was delicious. Smart Travel truly knows how to create a memorable experience.",
+        "tour_highlight": "Jungfraujoch – Top of Europe and Lake Geneva."
+      },
+      {
+        "id": 8,
+        "name": "James Wilson",
+        "rating": 4,
+       "image": "/images/review8.jpg",
+        "destination": "New Zealand",
+        "date": "2024-01-02",
+        "testimonial": "New Zealand’s natural beauty is like no other. The trip was fantastic, but some days felt a bit rushed. Nonetheless, I’d book with Smart Travel again.",
+        "tour_highlight": "Milford Sound and Hobbiton Movie Set."
+      },
+      {
+        "id": 9,
+        "name": "Olivia Martinez",
+        "rating": 5,
+      "image": "/images/review3.jpg",
+        "destination": "Greece",
+        "date": "2023-08-22",
+        "testimonial": "Greece is a magical place. Santorini’s sunsets are unmatched, and Athens’ history is awe-inspiring. Smart Travel handled everything flawlessly.",
+        "tour_highlight": "Santorini’s Oia village and the Acropolis in Athens."
+      }
+    ]
+  

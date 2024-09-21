@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*::selection{
+  @apply bg-secondary text-white
+}
+
+.btn{
+  @apply py-3 font-poppins px-6 bg-tertiary text-primary rounded md:text-lg hover:bg-opacity-50 duration-300 ease-linear
+}
+.btc{
+  @apply py-3 px-6 bg-primary  text-tertiary rounded  hover:bg-secondary  hover:text-primary duration-300 ease-in-out
+}
+
+
+.stroke{
+  color: transparent;
+  -webkit-text-stroke: 1px white;
+}
+
+section{
+  @apply mt-24 md:px-10 lg:px-24 px-8
+}
+.slick-slide > div{
+  margin: 0px 15px;
+}

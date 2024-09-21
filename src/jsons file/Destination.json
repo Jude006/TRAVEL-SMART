@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "name": "Bali, Indonesia",
+    "location": {
+      "continent": "Asia",
+      "country": "Indonesia",
+      "city": "Bali"
+    },
+    "description_short": "Bali is a tropical haven for beach lovers and adventurers.",
+    "description_long": "Bali is an Indonesian paradise known for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs. It's a perfect destination for both relaxation and adventure. Explore the island’s unique culture and vibrant landscapes, perfect for yoga retreats and water sports.",
+    "images": ["/images/bali1.jpg", "/images/bali2.jpg", "/images/bali3.jpg"],
+    "price": {
+      "currency": "USD",
+      "original_price": 1200,
+      "discounted_price": 900
+    },
+    "discount": {
+      "percent": 25,
+      "valid_until": "2024-12-31"
+    },
+    "start_date": "2024-03-15",
+    "activities": ["Surfing", "Snorkeling", "Temple Tours", "Spa & Wellness", "Yoga Retreats"],
+    "best_time_to_visit": "May to September",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Jane Doe",
+        "rating": 5,
+        "comment": "Bali is a dream come true!"
+      },
+      {
+        "user": "John Smith",
+        "rating": 4.5,
+        "comment": "Great destination for adventure lovers."
+      }
+    ],
+    "weather": {
+      "average_temperature": "30°C",
+      "seasons": ["Dry Season", "Rainy Season"]
+    },
+    "duration": "7 days, 6 nights",
+    "flight_included": true,
+    "accommodation": [
+      {
+        "type": "Hotel",
+        "name": "Ocean View Resort",
+        "description": "A luxurious resort with stunning ocean views and modern amenities.",
+        "amenities": ["WiFi", "24/7 Room Service", "Swimming Pool", "Restaurant", "Spa"]
+      },
+      {
+        "type": "Hostel",
+        "name": "Backpacker's Haven",
+        "description": "A budget-friendly hostel with a vibrant community and basic amenities.",
+        "amenities": ["WiFi", "Shared Kitchen", "Laundry", "Common Room"]
+      }
+    ],
+    "transportation": [
+      {
+        "type": "Taxi",
+        "description": "Convenient and readily available taxis.",
+        "details": "Affordable rates with options for private or shared rides."
+      },
+      {
+        "type": "Bike Rental",
+        "description": "Rent bikes to explore Bali at your own pace.",
+        "details": "Easy to rent with various options for duration."
+      }
+    ],
+    "amenities": ["Free WiFi", "24/7 Concierge Service", "Airport Shuttle", "Daily Housekeeping", "Tour Desk"]
+  },
+  {
+    "id": 2,
+    "name": "Paris, France",
+    "location": {
+      "continent": "Europe",
+      "country": "France",
+      "city": "Paris"
+    },
+    "description_short": "Paris, the City of Light, is renowned for its art, fashion, and landmarks.",
+    "description_long": "Paris, known as the City of Light, is famous for its art, fashion, and culture. Visit iconic landmarks like the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. Enjoy exquisite French cuisine and explore charming neighborhoods like Montmartre and Le Marais.",
+    "images": ["/images/paris1.jpg", "/images/paris2.jpg", "/images/paris3.jpg"],
+    "price": {
+      "currency": "USD",
+      "original_price": 1500,
+      "discounted_price": 1200
+    },
+    "discount": {
+      "percent": 20,
+      "valid_until": "2024-11-30"
+    },
+    "start_date": "2024-06-01",
+    "activities": ["Museum Tours", "River Cruises", "Gourmet Dining", "Shopping", "Historical Sites"],
+    "best_time_to_visit": "April to June, September to October",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "Alice Johnson",
+        "rating": 5,
+        "comment": "Paris is absolutely magical!"
+      },
+      {
+        "user": "Robert Brown",
+        "rating": 4.7,
+        "comment": "Wonderful experience with so much to see and do."
+      }
+    ],
+    "weather": {
+      "average_temperature": "12°C",
+      "seasons": ["Spring", "Summer", "Autumn", "Winter"]
+    },
+    "duration": "5 days, 4 nights",
+    "flight_included": false,
+    "accommodation": [
+      {
+        "type": "Luxury Hotel",
+        "name": "Le Meurice",
+        "description": "An elegant palace hotel in the heart of Paris with opulent rooms and fine dining.",
+        "amenities": ["Free WiFi", "Spa", "Fitness Center", "Restaurant", "Concierge Service"]
+      },
+      {
+        "type": "Boutique Hotel",
+        "name": "Hotel des Arts Montmartre",
+        "description": "A charming boutique hotel located in the artistic Montmartre district.",
+        "amenities": ["Free WiFi", "Breakfast", "Airport Shuttle", "Bar"]
+      }
+    ],
+    "transportation": [
+      {
+        "type": "Metro",
+        "description": "Efficient and extensive underground metro system.",
+        "details": "Easy access to major attractions and neighborhoods."
+      },
+      {
+        "type": "Bus Tours",
+        "description": "Hop-on-hop-off bus tours for sightseeing.",
+        "details": "Explore Paris at your own pace with convenient stops at key landmarks."
+      }
+    ],
+    "amenities": ["Free WiFi", "24/7 Front Desk", "In-Room Safe", "Airport Transfer", "Tour Assistance"]
+  },
+  {
+    "id": 3,
+    "name": "Kyoto, Japan",
+    "location": {
+      "continent": "Asia",
+      "country": "Japan",
+      "city": "Kyoto"
+    },
+    "description_short": "Kyoto, a city steeped in history and tradition, is home to stunning temples.",
+    "description_long": "Kyoto is renowned for its historical temples, traditional tea houses, and beautiful gardens. Explore ancient shrines such as Fushimi Inari-taisha, wander through bamboo groves, and experience traditional Japanese tea ceremonies. Kyoto offers a glimpse into Japan's rich cultural heritage.",
+    "images": ["/images/kyoto.jpg", "/images/kyoto2.jpg", "/images/kyoto3.jpg"],
+    "price": {
+      "currency": "USD",
+      "original_price": 1300,
+      "discounted_price": 1100
+    },
+    "discount": {
+      "percent": 15,
+      "valid_until": "2024-09-30"
+    },
+    "start_date": "2024-05-10",
+    "activities": ["Temple Visits", "Tea Ceremonies", "Garden Tours", "Cultural Performances", "Cooking Classes"],
+    "best_time_to_visit": "March to May, September to November",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "user": "Emma Watson",
+        "rating": 5,
+        "comment": "A serene and beautiful destination with rich culture."
+      },
+      {
+        "user": "Liam Neeson",
+        "rating": 4.6,
+        "comment": "Wonderful experience exploring Kyoto’s temples and gardens."
+      }
+    ],
+    "weather": {
+      "average_temperature": "16°C",
+      "seasons": ["Spring", "Summer", "Autumn", "Winter"]
+    },
+    "duration": "6 days, 5 nights",
+    "flight_included": false,
+    "accommodation": [
+      {
+        "type": "Ryokan",
+        "name": "Gion Hatanaka",
+        "description": "A traditional Japanese inn offering an authentic experience with tatami floors and kaiseki cuisine.",
+        "amenities": ["Free WiFi", "Onsen", "Japanese Breakfast", "Garden"]
+      },
+      {
+        "type": "Business Hotel",
+        "name": "Hotel Granvia Kyoto",
+        "description": "Conveniently located with modern amenities and easy access to transportation.",
+        "amenities": ["Free WiFi", "Fitness Center", "Business Center", "Restaurant"]
+      }
+    ],
+    "transportation": [
+      {
+        "type": "Local Buses",
+        "description": "Extensive network of local buses to explore the city.",
+        "details": "Frequent services with easy access to major attractions."
+      },
+      {
+        "type": "Bicycles",
+        "description": "Rent bicycles for a fun and eco-friendly way to explore Kyoto.",
+        "details": "Numerous rental shops and bike-friendly paths."
+      }
+    ],
+    "amenities": ["Free WiFi", "Luggage Storage", "24/7 Reception", "Japanese Toiletries", "Daily Housekeeping"]
+  },
+  {
+    "id": 4,
+    "name": "New York City, USA",
+    "location": {
+      "continent": "North America",
+      "country": "USA",
+      "city": "New York"
+    },
+    "description_short": "New York City, the Big Apple, is known for its vibrant culture,  and nightlife.",
+    "description_long": "New York City, often called the Big Apple, is a bustling metropolis known for its iconic landmarks such as Times Square, Central Park, and the Statue of Liberty. Enjoy world-class dining, Broadway shows, and diverse neighborhoods. NYC offers endless opportunities for entertainment and exploration.",
+    "images": ["/images/york1.jpg", "/images/york2.jpg", "/images/york3.jpg"],
+    "price": {
+      "currency": "USD",
+      "original_price": 2000,
+      "discounted_price": 1700
+    },
+    "discount": {
+      "percent": 15,
+      "valid_until": "2024-08-31"
+    },
+    "start_date": "2024-07-20",
+    "activities": ["Broadway Shows", "Museum Visits", "City Tours", "Shopping", "Food Tours"],
+    "best_time_to_visit": "April to June, September to November",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "user": "Sophia Martinez",
+        "rating": 5,
+        "comment": "New York City is an exhilarating experience with something for everyone."
+      },
+      {
+        "user": "James Davis",
+        "rating": 4.8,
+        "comment": "A vibrant city with endless activities and attractions."
+      }
+    ],
+    "weather": {
+      "average_temperature": "10°C",
+      "seasons": ["Spring", "Summer", "Autumn", "Winter"]
+    },
+    "duration": "5 days, 4 nights",
+    "flight_included": true,
+    "accommodation": [
+      {
+        "type": "Luxury Hotel",
+        "name": "The Ritz-Carlton New York",
+        "description": "A five-star hotel offering luxurious rooms, fine dining, and exceptional service.",
+        "amenities": ["Free WiFi", "Spa", "Fitness Center", "Concierge Service", "Rooftop Bar"]
+      },
+      {
+        "type": "Mid-Range Hotel",
+        "name": "Hotel Edison",
+        "description": "A comfortable and well-located hotel in the Theater District with modern amenities.",
+        "amenities": ["Free WiFi", "Restaurant", "Business Center", "Fitness Center"]
+      }
+    ],
+    "transportation": [
+      {
+        "type": "Subway",
+        "description": "The extensive subway system covers all five boroughs.",
+        "details": "Affordable and convenient for getting around the city."
+      },
+      {
+        "type": "Yellow Cabs",
+        "description": "Iconic New York City taxis available throughout the city.",
+        "details": "Quick and easy way to travel, especially in Midtown."
+      }
+    ],
+    "amenities": ["Free WiFi", "24/7 Front Desk", "Luggage Storage", "Room Service", "Tour Desk"]
+  },
+  {
+    "id": 5,
+    "name": "Cape Town, South Africa",
+    "location": {
+      "continent": "Africa",
+      "country": "South Africa",
+      "city": "Cape Town"
+    },
+    "description_short": "Cape Town offers stunning natural beauty, diverse wildlife, and rich cultural .",
+    "description_long": "Cape Town, set against the backdrop of Table Mountain, is a city of extraordinary natural beauty. From its stunning beaches and vineyards to its vibrant cultural scene, Cape Town offers a wealth of activities. Explore the Cape Winelands, visit Robben Island, or hike up Table Mountain for breathtaking views.",
+    "images": ["/images/capetown1.jpg", "/images/capetown2.jpg", "/images/capetown3.jpg"],
+    "price": {
+      "currency": "USD",
+      "original_price": 1400,
+      "discounted_price": 1100
+    },
+    "discount": {
+      "percent": 21,
+      "valid_until": "2024-10-31"
+    },
+    "start_date": "2024-08-01",
+    "activities": ["Table Mountain Hike", "Wine Tours", "Cape Peninsula Tour", "Beach Days", "Cultural Tours"],
+    "best_time_to_visit": "November to March",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "user": "Natalie Green",
+        "rating": 5,
+        "comment": "Cape Town is a gem with incredible landscapes and culture."
+      },
+      {
+        "user": "Oliver Wilson",
+        "rating": 4.5,
+        "comment": "Beautiful city with plenty to do and see."
+      }
+    ],
+    "weather": {
+      "average_temperature": "18°C",
+      "seasons": ["Summer", "Autumn", "Winter", "Spring"]
+    },
+    "duration": "7 days, 6 nights",
+    "flight_included": false,
+    "accommodation": [
+      {
+        "type": "Luxury Lodge",
+        "name": "Ellerman House",
+        "description": "A luxury boutique hotel offering exclusive amenities and breathtaking views.",
+        "amenities": ["Free WiFi", "Infinity Pool", "Spa", "Wine Cellar", "Private Beach Access"]
+      },
+      {
+        "type": "Guesthouse",
+        "name": "Jambo Guest House",
+        "description": "A cozy guesthouse with personalized service and a homey atmosphere.",
+        "amenities": ["Free WiFi", "Breakfast", "Outdoor Pool", "Garden"]
+      }
+    ],
+    "transportation": [
+      {
+        "type": "Car Rental",
+        "description": "Rent a car to explore Cape Town and the surrounding areas at your own pace.",
+        "details": "Convenient rental options available at the airport and city center."
+      },
+      {
+        "type": "Tour Shuttles",
+        "description": "Guided shuttle services to major attractions and tours.",
+        "details": "Comfortable and informative tours to popular destinations."
+      }
+    ],
+    "amenities": ["Free WiFi", "Airport Transfers", "24/7 Concierge", "Daily Housekeeping", "Tour Assistance"]
+  },
+  {
+    "id": 6,
+    "name": "Sydney, Australia",
+    "location": {
+      "continent": "Australia",
+      "country": "Australia",
+      "city": "Sydney"
+    },
+    "description_short": "Sydney is a vibrant city known for its  iconic landmarks, and outdoor lifestyle.",
+    "description_long": "Sydney is Australia's largest city, famous for its stunning harbor, iconic Sydney Opera House, and vibrant cultural scene. Enjoy beautiful beaches, world-class dining, and outdoor adventures. Visit Bondi Beach, explore the Royal Botanic Garden, or take a ferry to Manly.",
+    "images": ["/images/sydney1.jpg", "/images/sydney2.jpg", "/images/sydney3.jpg"],
+    "price": {
+      "currency": "USD",
+      "original_price": 1600,
+      "discounted_price": 1400
+    },
+    "discount": {
+      "percent": 12,
+      "valid_until": "2024-07-31"
+    },
+    "start_date": "2024-09-01",
+    "activities": ["Harbor Cruises", "Beach Visits", "City Tours", "Opera House Tours", "Sydney Harbour Bridge Climb"],
+    "best_time_to_visit": "September to November, March to May",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "user": "Chloe Taylor",
+        "rating": 5,
+        "comment": "Sydney is a fantastic city with so much to offer!"
+      },
+      {
+        "user": "Michael Brown",
+        "rating": 4.7,
+        "comment": "Great experiences with beautiful sights and activities."
+      }
+    ],
+    "weather": {
+      "average_temperature": "20°C",
+      "seasons": ["Summer", "Autumn", "Winter", "Spring"]
+    },
+    "duration": "6 days, 5 nights",
+    "flight_included": true,
+    "accommodation": [
+      {
+        "type": "Luxury Hotel",
+        "name": "Park Hyatt Sydney",
+        "description": "An upscale hotel with stunning harbor views and exceptional service.",
+        "amenities": ["Free WiFi", "Spa", "Fitness Center", "Rooftop Pool", "Fine Dining"]
+      },
+      {
+        "type": "Mid-Range Hotel",
+        "name": "The Sydney Hotel",
+        "description": "A comfortable hotel in a central location with modern amenities.",
+        "amenities": ["Free WiFi", "Restaurant", "Business Center", "Gym"]
+      }
+    ],
+    "transportation": [
+      {
+        "type": "Ferries",
+        "description": "Scenic ferry rides across Sydney Harbour.",
+        "details": "A popular way to see the city and reach various attractions."
+      },
+      {
+        "type": "Light Rail",
+        "description": "Modern light rail system connecting key parts of the city.",
+        "details": "Convenient and efficient transportation within Sydney."
+      }
+    ],
+    "amenities": ["Free WiFi", "Concierge Service", "24/7 Reception", "Airport Shuttle", "Laundry Service"]
+  }
+]

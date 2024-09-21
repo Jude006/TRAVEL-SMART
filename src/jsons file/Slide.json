@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "image": "/images/slide1.jpg",
+      "name": "Sarah Johnson",
+      "title": "Bali Adventure",
+      "testimony": "Booking through Smart Travel was the best decision for our Bali trip. From the seamless booking process to the unforgettable experiences, everything was perfect. I highly recommend it!"
+    },
+    {
+      "id": 2,
+      "image": "/images/slide2.jpg",
+      "name": "Michael Smith",
+      "title": "Maldives Escape",
+      "testimony": "Our Maldives trip was magical thanks to Smart Travel. The hotel was luxurious, the excursions were thrilling, and the service was top-notch. I can't wait to book my next trip!"
+    },
+    {
+      "id": 3,
+      "image": "/images/slide3.jpg",
+      "name": "Emily Davis",
+      "title": "Paris Getaway",
+      "testimony": "Smart Travel made our dream of exploring Paris a reality. From visiting the Eiffel Tower to indulging in authentic French cuisine, the experience was nothing short of amazing. Highly recommended!"
+    },
+    {
+      "id": 4,
+      "image": "/images/slide4.jpg",
+      "name": "David Martin",
+      "title": "African Safari",
+      "testimony": "Our African safari was a once-in-a-lifetime adventure, and Smart Travel handled everything with expertise. The guided tours, wildlife sightings, and accommodations exceeded our expectations."
+    },
+    {
+      "id": 5,
+      "image": "/images/slide5.jpg",
+      "name": "Olivia Garcia",
+      "title": "Tokyo Discovery",
+      "testimony": "Smart Travel curated an exceptional itinerary for our trip to Tokyo. We explored the vibrant city, savored local delicacies, and experienced the culture like never before. Will definitely book again!"
+    },
+    {
+      "id": 6,
+      "image": "/images/slide6.jpg",
+      "name": "Liam Thompson",
+      "title": "Santorini Bliss",
+      "testimony": "Our Santorini vacation was breathtaking. The sunset views, island hopping, and the exclusive tour made it truly unforgettable. Thanks to Smart Travel for making everything so easy!"
+    }
+  ]
+  

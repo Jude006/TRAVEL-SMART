@@ -1,0 +1,851 @@
+[
+  {
+    "id": 1,
+    "name": "Maldives",
+    "location": "Indian Ocean",
+    "description": "The Maldives, known for its crystal clear waters and luxurious resorts, is a tropical paradise offering an ideal escape for relaxation and adventure. Ideal for honeymoons and family vacations.",
+    "image": "/images/maldives1.jpg",
+    "startingPrice": 2500,
+    "tour": 5,
+    "duration": "7 days",
+    "discountPrice": 2200,
+    "gallery": [
+      "/images/maldives.jpg",
+      "/images/maldives2.jpg",
+      "/images/maldives3.jpg"
+    ],
+    "packages": [
+      {
+        "id": "p1",
+        "name": "Luxury Beach Resort Package",
+        "description": "Experience 5-star luxury at a private beach resort with full board meals and water activities.",
+        "price": 5000,
+        "discountPrice": 4500,
+        "duration": "7 days",
+        "accommodation": "5-star beach resort",
+        "inclusions": "All meals, airport transfer, water sports, and spa treatments",
+        "exclusions": "International flights, personal expenses"
+      },
+      {
+        "id": "p2",
+        "name": "Budget Beach Bungalow",
+        "description": "Stay in a cozy beach bungalow with a half-board meal plan and enjoy water sports and excursions.",
+        "price": 2500,
+        "discountPrice": 2300,
+        "duration": "5 days",
+        "accommodation": "Beach bungalow",
+        "inclusions": "Breakfast, dinner, snorkeling gear, and one guided tour",
+        "exclusions": "Lunch, optional excursions"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a1",
+        "name": "Snorkeling",
+        "description": "Explore the beautiful coral reefs around the island.",
+        "price": 100
+      },
+      {
+        "id": "a2",
+        "name": "Diving",
+        "description": "Dive deep into the crystal-clear waters to explore underwater life.",
+        "price": 150
+      },
+      {
+        "id": "a3",
+        "name": "Island Hopping",
+        "description": "Visit nearby islands and explore local culture.",
+        "price": 200
+      }
+    ],
+    "attractions":[
+      {
+        "id": "at1",
+        "name": "Banana Reef",
+        "description": "A world-famous reef known for diving and snorkeling, featuring vibrant coral and marine life.",
+        "image": "/images/MALDIVES SA 1.jpg"
+      },
+      {
+        "id": "at2",
+        "name": "HP Reef",
+        "description": "Another fantastic spot for diving and underwater exploration, known for its stunning coral gardens.",
+       "image": "/images/MALDIVES SA 2.jpg"
+      },
+      {
+        "id": "at3",
+        "name": "Vaadhoo Island - Sea of Stars",
+        "description": "Famous for its bioluminescent beach, where glowing plankton lights up the water at night, creating a 'Sea of Stars.'",
+       "image": "/images/MALDIVES SA 3.jpg"
+      },
+      {
+        "id": "at4",
+        "name": "The Maldives Glowing Beach",
+        "description": "A mesmerizing natural phenomenon where the shoreline glows bright blue due to bioluminescent plankton.",
+        "image": "/images/MALDIVES SA 4.jpg"
+      },
+      {
+        "id": "at5",
+        "name": "Manta Point",
+        "description": "Dive with majestic manta rays at one of the top diving sites in the Maldives.",
+        "image": "/images/MALDIVES SA 5.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r1",
+        "user": "John Doe",
+        "rating": 5,
+        "comment": "Amazing experience! Highly recommend the Maldives for a luxury vacation."
+      },
+      {
+        "id": "r2",
+        "user": "Jane Smith",
+        "rating": 4,
+        "comment": "Beautiful scenery and fantastic service. The snorkeling was the best part!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Switzerland",
+    "location": "Europe",
+    "description": "Switzerland offers breathtaking mountain landscapes, luxurious cities, and adventure activities such as skiing and hiking. Perfect for nature lovers and adventure seekers.",
+    "image": "/images/switzerland.jpg",
+    "startingPrice": 3500,
+    "duration": "10 days",
+    "tour": 3,
+    "discountPrice": 3200,
+    "gallery": [
+      "/images/switzerland1.jpg",
+      "/images/switzerland2.jpg",
+      "/images/switzerland3.jpg"
+    ],
+    "packages": [
+      {
+        "id": "p3",
+        "name": "Alpine Ski Adventure",
+        "description": "Experience skiing in the Swiss Alps, complete with ski passes, guided tours, and luxury lodging.",
+        "price": 4000,
+        "discountPrice": 3700,
+        "duration": "7 days",
+        "accommodation": "Luxury alpine resort",
+        "inclusions": "Ski passes, accommodation, and guided tours of the Alps",
+        "exclusions": "Meals, personal expenses"
+      },
+      {
+        "id": "p4",
+        "name": "Luxury Zurich Getaway",
+        "description": "Stay in a luxury hotel in Zurich and explore the city’s culture, shopping, and dining.",
+        "price": 3500,
+        "discountPrice": 3300,
+        "duration": "5 days",
+        "accommodation": "5-star hotel",
+        "inclusions": "Luxury hotel stay, daily breakfast, and city tours",
+        "exclusions": "Dinner, optional excursions"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a4",
+        "name": "Skiing",
+        "description": "Enjoy skiing down the breathtaking Swiss Alps.",
+        "price": 250
+      },
+      {
+        "id": "a5",
+        "name": "Hiking",
+        "description": "Explore beautiful mountain trails with incredible views.",
+        "price": 100
+      },
+      {
+        "id": "a6",
+        "name": "City Tour",
+        "description": "Discover Zurich’s cultural highlights and luxury shopping.",
+        "price": 75
+      }
+    ],
+    "attractions": [
+      {
+        "id": "at3",
+        "name": "Matterhorn",
+        "description": "One of the most famous mountains in the world.",
+        "image": "/images/SWITZERLAND SA 1.jpg"
+      },
+      {
+        "id": "at4",
+        "name": "Lake Geneva",
+        "description": "A stunning lake surrounded by mountains.",
+        "image": "/images/SWITZERLAND SA 2.jpg"
+      },
+      {
+        "id": "at5",
+        "name": "Château de Chillon",
+        "description": "A medieval fortress set on Lake Geneva’s shores, offering stunning views and rich history.",
+        "image": "/images/SWITZERLAND SA 3.jpg"
+      },
+      {
+        "id": "at6",
+        "name": "Jungfraujoch",
+        "description": "Known as the 'Top of Europe', this high-altitude destination offers breathtaking alpine views.",
+         "image": "/images/SWITZERLAND SA 4.jpg"
+      },
+      {
+        "id": "at7",
+        "name": "Zermatt Village",
+        "description": "A picturesque village known for its luxury ski resorts and proximity to the Matterhorn.",
+        "image": "/images/SWITZERLAND SA 5.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r3",
+        "user": "Alice Green",
+        "rating": 5,
+        "comment": "The Swiss Alps are an absolute dream. Incredible experience!"
+      },
+      {
+        "id": "r4",
+        "user": "Bob White",
+        "rating": 4,
+        "comment": "Zurich is a beautiful city, and the luxury hotels were outstanding."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "location": "Asia",
+    "description": "Japan is a fascinating blend of ancient traditions and modern technology, offering unique cultural experiences and stunning landscapes.",
+    "image": "/images/japan1.jpg",
+    "startingPrice": 3000,
+    "duration": "8 days",
+    "tour": 7,
+    "discountPrice": 2800,
+    "gallery": [
+      "/images/japan1.jpg",
+      "/images/japan2.avif",
+      "/images/japan3.avif"
+    ],
+    "packages": [
+      {
+        "id": "p5",
+        "name": "Tokyo and Kyoto Discovery",
+        "description": "Explore Japan’s rich history and modern culture in Tokyo and Kyoto with guided city tours and temple visits.",
+        "price": 4000,
+        "discountPrice": 3700,
+        "duration": "8 days",
+        "accommodation": "4-star hotels",
+        "inclusions": "Guided city tours, accommodation, transportation between Tokyo and Kyoto",
+        "exclusions": "Meals, optional activities"
+      },
+      {
+        "id": "p6",
+        "name": "Cherry Blossom Season Tour",
+        "description": "Experience the beauty of Japan’s cherry blossoms with visits to the best viewing spots.",
+        "price": 3500,
+        "discountPrice": 3300,
+        "duration": "7 days",
+        "accommodation": "3-star hotels",
+        "inclusions": "Accommodation, guided cherry blossom viewing tours",
+        "exclusions": "Meals, personal expenses"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a7",
+        "name": "Temple Visits",
+        "description": "Explore famous temples like Sensoji and Fushimi Inari Taisha.",
+        "price": 50
+      },
+      {
+        "id": "a8",
+        "name": "Sushi Making Class",
+        "description": "Learn how to make traditional sushi from a local chef.",
+        "price": 80
+      },
+      {
+        "id": "a9",
+        "name": "Sumo Wrestling Show",
+        "description": "Watch a traditional sumo wrestling match and learn about this ancient sport.",
+        "price": 120
+      }
+    ],
+    "attractions": [
+      {
+        "id": "at5",
+        "name": "Mount Fuji",
+        "description": "Japan's most iconic peak, known for hiking and breathtaking views.",
+        "image": "/images/JAPAN SA 1.jpg"
+      },
+      {
+        "id": "at6",
+        "name": "Tokyo Tower",
+        "description": "A symbol of Japan’s post-war rebirth, offering panoramic views of Tokyo.",
+        "image": "/images/JAPAN SA 2.jpg"
+      },
+      {
+        "id": "at7",
+        "name": "Fushimi Inari Taisha",
+        "description": "Famous for its thousands of red torii gates leading up to the shrine's main hall.",
+         "image": "/images/JAPAN SA 3.jpg"
+      },
+      {
+        "id": "at8",
+        "name": "Kinkaku-ji (Golden Pavilion)",
+        "description": "A stunning Zen Buddhist temple covered in gold leaf, set amidst beautiful gardens.",
+         "image": "/images/JAPAN SA 4.jpg"
+      },
+      {
+        "id": "at9",
+        "name": "Shibuya Crossing",
+        "description": "One of the busiest pedestrian crossings in the world, known for its vibrant energy and surrounding shops.",
+        "image": "/images/JAPAN SA 5.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r5",
+        "user": "Emily Stone",
+        "rating": 5,
+        "comment": "Japan is an extraordinary destination. The cherry blossoms were breathtaking, and the food was out of this world!"
+      },
+      {
+        "id": "r6",
+        "user": "David Lee",
+        "rating": 4,
+        "comment": "Loved the mix of old and new in Japan. The guided tours were excellent."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Australia",
+    "location": "Oceania",
+    "description": "Australia is known for its diverse landscapes, from beautiful beaches and coral reefs to arid outback regions and bustling cities.",
+    "image": "/images/australia3.jpg",
+    "startingPrice": 2800,
+    "duration": "10 days",
+    "tour": 6,
+    "discountPrice": 2500,
+    "gallery": [
+      "/images/australia3.jpg",
+      "/images/australia2.jpg",
+      "/images/australia31.jpg"
+    ],
+    "packages": [
+      {
+        "id": "p7",
+        "name": "Sydney and Great Barrier Reef Adventure",
+        "description": "Explore the vibrant city of Sydney and dive into the Great Barrier Reef, one of the world’s natural wonders.",
+        "price": 4500,
+        "discountPrice": 4200,
+        "duration": "10 days",
+        "accommodation": "4-star hotels",
+        "inclusions": "Accommodation, Great Barrier Reef tours, Sydney city tours",
+        "exclusions": "Meals, personal expenses"
+      },
+      {
+        "id": "p8",
+        "name": "Outback Explorer",
+        "description": "Discover the rugged beauty of Australia’s outback with visits to Uluru, Alice Springs, and more.",
+        "price": 3800,
+        "discountPrice": 3500,
+        "duration": "7 days",
+        "accommodation": "3-star lodges",
+        "inclusions": "Guided tours, accommodation, meals",
+        "exclusions": "Optional excursions, personal expenses"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a10",
+        "name": "Snorkeling in the Great Barrier Reef",
+        "description": "Experience the vibrant underwater life of the Great Barrier Reef.",
+        "price": 200
+      },
+      {
+        "id": "a11",
+        "name": "Sydney Opera House Tour",
+        "description": "Take a guided tour of Australia’s most famous landmark.",
+        "price": 70
+      },
+      {
+        "id": "a12",
+        "name": "Uluru Hiking",
+        "description": "Explore the stunning red rock of Uluru in the heart of the outback.",
+        "price": 100
+      }
+    ],
+    "attractions": [
+      {
+        "id": "at7",
+        "name": "Great Barrier Reef",
+        "description": "The world's largest coral reef system, home to diverse marine life.",
+        "image": "/images/great_barrier_reef.jpg"
+      },
+      {
+        "id": "at8",
+        "name": "Sydney Opera House",
+        "description": "An architectural marvel and one of the most iconic buildings in the world.",
+        "image": "/images/sydney_opera_house.jpg"
+      },
+      {
+        "id": "at9",
+        "name": "Uluru (Ayers Rock)",
+        "description": "A massive sandstone monolith in the heart of the Australian outback, sacred to the indigenous Anangu people.",
+        "image": "/images/uluru.jpg"
+      },
+      {
+        "id": "at10",
+        "name": "Bondi Beach",
+        "description": "Famous for its golden sands and surf culture, Bondi Beach is a popular destination for sunbathers and surfers alike.",
+        "image": "/images/bondi_beach.jpg"
+      },
+      {
+        "id": "at11",
+        "name": "Great Ocean Road",
+        "description": "One of the most scenic coastal drives in the world, offering stunning views of cliffs, beaches, and rock formations.",
+        "image": "/images/great_ocean_road.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r7",
+        "user": "Jessica Brown",
+        "rating": 5,
+        "comment": "Australia is a magical place! Snorkeling at the Great Barrier Reef was an unforgettable experience."
+      },
+      {
+        "id": "r8",
+        "user": "Michael Adams",
+        "rating": 4,
+        "comment": "Loved exploring Sydney and seeing the Great Barrier Reef. The package was well organized."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Canada",
+    "location": "North America",
+    "description": "Canada is a land of stunning natural beauty, from its majestic mountains to its peaceful lakes, making it perfect for outdoor adventures and city escapades.",
+    "image": "/images/CANADA3.mp4",
+    "startingPrice": 3200,
+    "tour": 9,
+    "duration": "12 days",
+    "discountPrice": 3000,
+    "gallery": [
+      "/images/canada.avif",
+      "/images/canada2.jpg",
+      "/images/canada3.jpg"
+    ],
+    "packages": [
+      {
+        "id": "p9",
+        "name": "Rocky Mountain Adventure",
+        "description": "Explore the stunning Rocky Mountains with guided hikes, wildlife tours, and cozy lodges.",
+        "price": 4000,
+        "discountPrice": 3700,
+        "duration": "10 days",
+        "accommodation": "Mountain lodges",
+        "inclusions": "Guided hikes, accommodation, and wildlife tours",
+        "exclusions": "Meals, personal expenses"
+      },
+      {
+        "id": "p10",
+        "name": "Vancouver City and Nature Escape",
+        "description": "Discover the city of Vancouver and nearby nature spots like Stanley Park and Grouse Mountain.",
+        "price": 3500,
+        "discountPrice": 3200,
+        "duration": "8 days",
+        "accommodation": "Luxury hotel",
+        "inclusions": "Accommodation, city and nature tours",
+        "exclusions": "Meals, optional excursions"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a13",
+        "name": "Whale Watching",
+        "description": "Go whale watching off the coast of Vancouver.",
+        "price": 150
+      },
+      {
+        "id": "a14",
+        "name": "Hiking",
+        "description": "Trek through the beautiful trails of the Rocky Mountains.",
+        "price": 120
+      },
+      {
+        "id": "a15",
+        "name": "Snowboarding",
+        "description": "Enjoy snowboarding on world-class slopes in Banff.",
+        "price": 200
+      }
+    ],
+    "attractions": [
+      {
+        "id": "at9",
+        "name": "Banff National Park",
+        "description": "A stunning national park with beautiful lakes, mountains, and wildlife.",
+        "image": "/images/CANADA4.jpg"
+      },
+      {
+        "id": "at10",
+        "name": "Niagara Falls",
+        "description": "One of the most famous waterfalls in the world.",
+         "image": "/images/CANADA5.jpg"
+      },
+      {
+        "id": "at11",
+        "name": "Whistler Blackcomb",
+        "description": "A world-renowned ski resort offering a range of winter sports and stunning alpine views.",
+        "image": "/images/CANADA6.jpg"
+      },
+      {
+        "id": "at12",
+        "name": "CN Tower",
+        "description": "A major landmark in Toronto offering panoramic views of the city and beyond.",
+         "image": "/images/CANADA7.jpg"
+      },
+      {
+        "id": "at13",
+        "name": "Prince Edward Island",
+        "description": "Known for its picturesque landscapes, red sand beaches, and charming small towns.",
+        "image": "/images/CANADA.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r9",
+        "user": "Chris Miller",
+        "rating": 5,
+        "comment": "Canada is incredible! The Rocky Mountains are a must-see, and the wildlife was spectacular."
+      },
+      {
+        "id": "r10",
+        "user": "Sarah Johnson",
+        "rating": 4,
+        "comment": "Vancouver was beautiful, and the whale watching experience was unforgettable."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "New Zealand",
+    "location": "Oceania",
+    "description": "New Zealand is known for its dramatic landscapes, from the snow-capped Southern Alps to lush forests and stunning beaches.",
+    "image": "/images/newzealand.avif",
+    "startingPrice": 3400,
+    "duration": "12 days",
+    "tour": 15,
+    "discountPrice": 3100,
+    "gallery": [
+      "/images/new zealand1.jpg",
+      "/images/new zealand2.jpg",
+      "/images/new zealand3.avif"
+    ],
+    "packages": [
+      {
+        "id": "p11",
+        "name": "Southern Alps Adventure",
+        "description": "Experience the majestic Southern Alps with hiking, glacier tours, and luxury accommodation.",
+        "price": 4500,
+        "discountPrice": 4200,
+        "duration": "10 days",
+        "accommodation": "Luxury lodges",
+        "inclusions": "Hiking, glacier tours, accommodation",
+        "exclusions": "Meals, personal expenses"
+      },
+      {
+        "id": "p12",
+        "name": "North Island Nature and Culture Tour",
+        "description": "Explore New Zealand’s North Island, including Rotorua’s geothermal wonders and Maori culture.",
+        "price": 3800,
+        "discountPrice": 3500,
+        "duration": "8 days",
+        "accommodation": "3-star hotels",
+        "inclusions": "Accommodation, guided cultural tours",
+        "exclusions": "Meals, optional activities"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a16",
+        "name": "Glacier Hiking",
+        "description": "Hike on the stunning glaciers of New Zealand's South Island.",
+        "price": 300
+      },
+      {
+        "id": "a17",
+        "name": "Bungee Jumping",
+        "description": "Experience the thrill of bungee jumping in Queenstown, the adventure capital of the world.",
+        "price": 250
+      },
+      {
+        "id": "a18",
+        "name": "Maori Cultural Experience",
+        "description": "Immerse yourself in Maori culture with traditional performances and a hangi feast.",
+        "price": 150
+      }
+    ],
+    "attractions": [
+      {
+        "id": "at11",
+        "name": "Milford Sound",
+        "description": "A breathtaking fjord known for its stunning scenery and wildlife.",
+        "image": "/images/NEW ZEALAND SA 1.jpg"
+      },
+      {
+        "id": "at12",
+        "name": "Hobbiton Movie Set",
+        "description": "Visit the famous movie set from the Lord of the Rings films.",
+        "image": "/images/NEW ZEALAND SA 2.jpg"
+      },
+      {
+        "id": "at13",
+        "name": "Tongariro National Park",
+        "description": "A UNESCO World Heritage site with dramatic volcanic landscapes and hiking trails.",
+        "image": "/images/NEW ZEALAND SA 3.jpg"
+      },
+      {
+        "id": "at14",
+        "name": "Rotorua",
+        "description": "Known for its geothermal activity, Maori culture, and stunning lakes.",
+        "image": "/images/NEW ZEALAND SA 4.jpg"
+      },
+      {
+        "id": "at15",
+        "name": "Queenstown",
+        "description": "The adventure capital of New Zealand, offering activities like bungee jumping, skydiving, and skiing.",
+        "image": "/images/NEW ZEALAND SA 5.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r11",
+        "user": "Tom Wilson",
+        "rating": 5,
+        "comment": "New Zealand is absolutely beautiful! The Southern Alps were a highlight, and the glacier hiking was a once-in-a-lifetime experience."
+      },
+      {
+        "id": "r12",
+        "user": "Laura Davies",
+        "rating": 4,
+        "comment": "The North Island was amazing. Loved learning about Maori culture and the natural beauty of Rotorua."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "South Africa",
+    "location": "Africa",
+    "description": "South Africa offers a diverse range of experiences, from wildlife safaris to vibrant city life and stunning coastal scenery.",
+    "image": "/images/southafrican.jpg",
+    "startingPrice": 3600,
+    "tour": 9,
+    "duration": "12 days",
+    "discountPrice": 3300,
+    "gallery": [
+      "/images/southafrican1.jpg",
+      "/images/southafrican2.jpg",
+      "/images/southafrican3.jpg"
+    ],
+    "packages": [
+      {
+        "id": "p13",
+        "name": "Kruger National Park Safari",
+        "description": "Embark on a thrilling safari adventure in Kruger National Park, with game drives and luxury lodges.",
+        "price": 4500,
+        "discountPrice": 4200,
+        "duration": "10 days",
+        "accommodation": "Luxury safari lodges",
+        "inclusions": "Accommodation, game drives, park entry fees",
+        "exclusions": "Meals, personal expenses"
+      },
+      {
+        "id": "p14",
+        "name": "Cape Town and Garden Route Tour",
+        "description": "Discover the beauty of Cape Town and the scenic Garden Route with guided tours and 4-star accommodation.",
+        "price": 3800,
+        "discountPrice": 3500,
+
+        "duration": "8 days",
+        "accommodation": "4-star hotels",
+        "inclusions": "Accommodation, city and Garden Route tours",
+        "exclusions": "Meals, optional excursions"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a19",
+        "name": "Safari Game Drives",
+        "description": "Experience thrilling game drives to spot the Big Five in Kruger National Park.",
+        "price": 300
+      },
+      {
+        "id": "a20",
+        "name": "Table Mountain Hike",
+        "description": "Hike to the top of Cape Town’s iconic Table Mountain for breathtaking views.",
+        "price": 150
+      },
+      {
+        "id": "a21",
+        "name": "Shark Cage Diving",
+        "description": "Get up close and personal with great white sharks in a safe cage diving experience.",
+        "price": 400
+      }
+    ],
+   "attractions": [
+    {
+      "id": "at13",
+      "name": "Kruger National Park",
+      "description": "One of Africa's largest game reserves, known for its incredible wildlife.",
+      "image": "/images/SOUTH AFRICA SA 1.jpg"
+    },
+    {
+      "id": "at14",
+      "name": "Table Mountain",
+      "description": "A flat-topped mountain offering stunning views of Cape Town and the surrounding ocean.",
+      "image": "/images/SOUTH AFRICA SA 2.jpg"
+    },
+    {
+      "id": "at15",
+      "name": "Victoria Falls",
+      "description": "One of the largest and most famous waterfalls in the world, located on the border of Zambia and Zimbabwe.",
+      "image": "/images/SOUTH AFRICA SA 3.jpg"
+    },
+    {
+      "id": "at16",
+      "name": "Great Pyramids of Giza",
+      "description": "The iconic pyramids in Egypt, considered one of the Seven Wonders of the Ancient World.",
+     "image": "/images/SOUTH AFRICA SA 4.jpg"
+    },
+    {
+      "id": "at17",
+      "name": "Serengeti National Park",
+      "description": "Famous for its annual migration of over 1.5 million wildebeest and hundreds of thousands of zebras.",
+     "image": "/images/SOUTH AFRICA SA 5.jpg"
+    }
+  ],
+    "reviews": [
+      {
+        "id": "r13",
+        "user": "Mark Thompson",
+        "rating": 5,
+        "comment": "South Africa was amazing! The safari in Kruger National Park was an unforgettable experience."
+      },
+      {
+        "id": "r14",
+        "user": "Anna Peterson",
+        "rating": 4,
+        "comment": "Cape Town is a beautiful city, and the Garden Route tour was spectacular."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Italy",
+    "location": "Europe",
+    "description": "Italy is a country of timeless beauty, rich history, and world-famous cuisine. From the canals of Venice to the art of Florence and the ruins of Rome, there's something for everyone.",
+    "image": "/images/italy.jpg",
+    "startingPrice": 3000,
+    "duration": "10 days",
+    "tour": 4,
+    "discountPrice": 2800,
+    "gallery": [
+      "/images/italy.jpg",
+      "/images/italy1.jpg",
+      "/images/italy2.jpg"
+    ],
+    "packages": [
+      {
+        "id": "p15",
+        "name": "Rome, Florence, and Venice Tour",
+        "description": "Discover the art, history, and culture of Italy with guided tours of Rome, Florence, and Venice.",
+        "price": 4000,
+        "discountPrice": 3700,
+        "duration": "10 days",
+        "accommodation": "4-star hotels",
+        "inclusions": "Accommodation, city tours, transportation between cities",
+        "exclusions": "Meals, optional excursions"
+      },
+      {
+        "id": "p16",
+        "name": "Amalfi Coast Escape",
+        "description": "Relax along the stunning Amalfi Coast with its picturesque towns and beautiful beaches.",
+        "price": 3500,
+        "discountPrice": 3200,
+        "duration": "7 days",
+        "accommodation": "Luxury beachside hotels",
+        "inclusions": "Accommodation, guided tours of the Amalfi Coast",
+        "exclusions": "Meals, personal expenses"
+      }
+    ],
+    "activities": [
+      {
+        "id": "a22",
+        "name": "Vatican City Tour",
+        "description": "Explore the wonders of Vatican City, including St. Peter's Basilica and the Sistine Chapel.",
+        "price": 100
+      },
+      {
+        "id": "a23",
+        "name": "Gondola Ride in Venice",
+        "description": "Take a romantic gondola ride through the canals of Venice.",
+        "price": 80
+      },
+      {
+        "id": "a24",
+        "name": "Wine Tasting in Tuscany",
+        "description": "Enjoy a wine tasting experience in the picturesque vineyards of Tuscany.",
+        "price": 150
+      }
+    ],
+    "attractions": [
+      {
+        "id": "at13",
+        "name": "Kruger National Park",
+        "description": "One of Africa's largest game reserves, known for its incredible wildlife.",
+        "image": "/images/ITALY SA 1.jpg"
+      },
+      {
+        "id": "at14",
+        "name": "Table Mountain",
+        "description": "A flat-topped mountain offering stunning views of Cape Town and the surrounding ocean.",
+         "image": "/images/ITALY SA 2.jpg"
+      },
+      {
+        "id": "at15",
+        "name": "Cape Winelands",
+        "description": "Renowned for its picturesque vineyards and exceptional wines.",
+         "image": "/images/ITALY SA 3.jpg"
+      },
+      {
+        "id": "at16",
+        "name": "Victoria & Alfred Waterfront",
+        "description": "A bustling area with shopping, dining, and entertainment, offering views of the harbor.",
+        "image": "/images/ITALY SA 4.jpg"
+      },
+      {
+        "id": "at17",
+        "name": "Addo Elephant National Park",
+        "description": "A park dedicated to elephant conservation, offering diverse wildlife experiences.",
+        "image": "/images/ITALY SA 5.jpg"
+      }
+    ],
+    "reviews": [
+      {
+        "id": "r15",
+        "user": "Sophia Rossi",
+        "rating": 5,
+        "comment": "Italy is breathtaking! The art and architecture were incredible, and the food was unforgettable."
+      },
+      {
+        "id": "r16",
+        "user": "Liam O'Brien",
+        "rating": 4,
+        "comment": "The Amalfi Coast was a dream. Relaxing and beautiful – I can't wait to go back!"
+      }
+    ]
+  }
+]
