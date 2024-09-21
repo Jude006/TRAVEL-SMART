@@ -124,11 +124,11 @@ function Chatbot() {
             {/* Chatbot Panel */}
             {showChatbot && (
                 <div
-                    className="fixed bottom-4 right-4 w-80   rounded-lg p-4 transition-all duration-500"
+                    className="fixed bg-tertiary backdrop-blur-sm h-screen flex flex-col justify-end items-end  inset-0 bg-opacity-35 bottom-4 right-4  w-full   rounded-lg p-4 transition-all duration-500"
                     style={{ zIndex: 1000 }}
                 >
                     {/* Close button */}
-                    <div className="flex justify-end">
+                    <div className="flex  justify-end ">
                         <button
                             className="text-red-800       text-xl hover:text-2xl duration-300 ease-linear font-semibold"
                             onClick={handleButtonClick}
@@ -137,7 +137,8 @@ function Chatbot() {
                         </button>
                     </div>
                     {/* Chatbot Component */}
-                    <ThemeProvider theme={theme}>
+                   <div className='w-full flex justify-end h-full '>
+                   <ThemeProvider theme={theme}>
                         <ChatBot
                             steps={steps}
                             headerTitle="Travel Smart Assistant"
@@ -147,6 +148,7 @@ function Chatbot() {
                             style={{ borderRadius: '10px' }} 
                         />
                     </ThemeProvider>
+                   </div>
                 </div>
             )}
         </div>
